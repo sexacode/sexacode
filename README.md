@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack engineer who ships and debugs real-world systems — mobile, backend, and infrastructure.
+Full-stack engineer who ships and debugs real-world systems — frontend, backend, and infrastructure.
 
 
 ## 🌐 Socials:
